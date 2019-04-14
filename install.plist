@@ -18,6 +18,8 @@
         <dict>
             <key>kind</key>
             <string>software</string>
+            <key>title</key>
+            <string>zb8</string>
         </dict>
     </dict>
 </array>
